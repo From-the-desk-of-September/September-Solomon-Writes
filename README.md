@@ -1,5 +1,5 @@
 # September‑Solomon‑Writes
-**A static‑site landing page for my indie‑author paranormal & dark‑romance novels**September‑Solomon‑Writes is a lightweight, SEO‑friendly static website that showcases my upcoming paranormal romance novels, hosts a blog, and collects newsletter sign‑ups. Built with **Eleventy** (or whichever generator you use) and hosted for free on **GitHub Pages**, the site loads in under a second and works on any device.## Features
+**A static‑site landing page for my indie‑author paranormal & dark‑romance novels**September‑Solomon‑Writes is a lightweight, SEO‑friendly static website that showcases my upcoming paranormal romance novels, hosts a blog, and collects newsletter sign‑ups. Built with **Eleventy** and hosted for free on **GitHub Pages**, the site loads in under a second and works on any device.## Features
 
 - **Landing page** with striking hero image and tagline
 - **Book catalog** with cover art, blurbs, and purchase links
